@@ -1,3 +1,10 @@
+# AWS Parallel Cluster Compatible Version
+- [https://github.com/Daylily-Informatics/rna-seq-star-deseq2](https://github.com/Daylily-Informatics/rna-seq-star-deseq2)
+
+---
+
+\---
+
 # Snakemake workflow: rna-seq-star-deseq2
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4737358.svg)](https://doi.org/10.5281/zenodo.4737358)
