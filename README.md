@@ -3,7 +3,7 @@
 
 ---
 
-\---
+---
 
 # Snakemake workflow: rna-seq-star-deseq2
 
